@@ -1,6 +1,6 @@
 ---
 theme: default
-background: https://cover.sli.dev
+#background: https://cover.sli.dev
 class: 'text-center'
 transition: slide-left
 title: "Phineas Gage: A Case Study"
@@ -51,9 +51,39 @@ Nathan Kulzer • Image credit [Unsplash](https://unsplash.com/collections/94734
 
 ## Effects
 
+* Early observations were taken by Gage's friend, John Harlow:
+
+> The equi­lib­rium or balance, so to speak, between his intel­lec­tual fac­ul­ties and animal pro­pen­si­ties, seems to have been destroyed. He is fitful, irreverent, indulging at times in the grossest profanity (which was not pre­vi­ous­ly his custom), manifesting but little deference for his fellows, impatient of restraint or advice when it conflicts with his desires, at times per­ti­na­cious­ly obstinate, yet capricious and vac­il­lat­ing, devising many plans of future operations, which are no sooner arranged than they are abandoned in turn for others appearing more feasible. A child in his intel­lec­tu­al capacity and man­i­fes­ta­tions, he has the animal passions of a strong man. Previous to his injury, although untrained in the schools, he possessed a well-balanced mind, and was looked upon by those who knew him as a shrewd, smart business man, very energetic and persistent in executing all his plans of operation. In this regard his mind was radically changed, so decidedly that his friends and acquaint­ances said he was "no longer Gage."
+
+<small style="margin-top: -1.4em; text-align: right; display: block;">Harlow, *Recovery from the Passage of an Iron Bar through the Head*</small>
+
+* Gage was able to move and function relatively quickly
+* Gage eventually returned to normal social behavior
+
+---
+
+## Aftermath
+
+* Gage moved to Chile and held down a stagecoach job
+  * Being a stagecoach required having a good personality:
+    > \[Drivers should\] be reliable, resourceful, and possess great endurance. But above all, they had to have the kind of personality that enabled them to get on well with their passengers.
+* Gage eventually died during a seizure (1860-05-21)
+
+<!--
+Mention Gage's job requiring good personality
+-->
+
 ---
 
 ## Contributions
+
+* Demonstrated brain locality
+* Helped prove brain plasticity
+
+<!--
+brain locality - the fact that certain parts of the brain do certain things
+brain plasticity - ability to repair / modify from damage
+-->
 
 ---
 
@@ -82,6 +112,8 @@ Nathan Kulzer • Image credit [Unsplash](https://unsplash.com/collections/94734
 </disproved>
 </ul>
 
+---
+background: "#000000"
 ---
 
 ## Sources
