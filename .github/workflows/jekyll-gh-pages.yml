@@ -29,6 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
+      - run: bun i
       - name: Build Slidev
         run: bunx slidev build
       - name: Upload artifact
