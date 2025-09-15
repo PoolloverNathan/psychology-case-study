@@ -11,7 +11,7 @@ mdc: true
 
 <center style="position: absolute; bottom: 0; width: 100%; left: 0; right: 0">
 
-Nathan Kulzer • Image credit [Unsplash](https://unsplash.com/collections/94734566/slidev)
+Nathan Kulzer
 
 </center>
 
@@ -46,6 +46,10 @@ Nathan Kulzer • Image credit [Unsplash](https://unsplash.com/collections/94734
 * His frontal lobe was severely damaged
 
 </div>
+
+<!--
+Explain what happened; maybe metal pole of some sort for demonstration? [click] point at stuff and stuff, show path of pole. <!-- amphis would be funny here --> “want to see what it looked like? [cli
+-->
 
 ---
 
