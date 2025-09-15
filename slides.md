@@ -48,7 +48,7 @@ Nathan Kulzer
 </div>
 
 <!--
-Explain what happened; maybe metal pole of some sort for demonstration? [click] point at stuff and stuff, show path of pole. <!-- amphis would be funny here --> “want to see what it looked like? [cli
+Explain what happened; maybe metal pole of some sort for demonstration? [click] point at stuff and stuff, show path of pole. [amphis would be funny here] “want to see what it looked like? [click]
 -->
 
 ---
