@@ -31,7 +31,7 @@ jobs:
       - uses: oven-sh/setup-bun@v2
       - run: bun i
       - name: Build Slidev
-        run: bunx slidev build
+        run: bunx slidev build --base psychology-case-study/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
